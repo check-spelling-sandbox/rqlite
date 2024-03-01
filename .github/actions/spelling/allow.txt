@@ -1,0 +1,6 @@
+github
+https
+risc
+ssh
+ubuntu
+workarounds
